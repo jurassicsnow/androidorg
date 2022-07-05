@@ -40,4 +40,9 @@ the License.
 
 ### TEST
 
-THIS IS SECOND CONTRIBUTOR FROM MEMBER KEVIN
+THIS IS SECOND CONTRIBUTOR FROM MEMBER snowballchen (chen)
+
+
+### Test
+
+ this is pull request approval test
